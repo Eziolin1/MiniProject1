@@ -1,6 +1,6 @@
 Hi, this is our repo for MiniProject1 about ResNet! The project is part of the course: ECE-GY 7123 Deep Learning 2022 Spring in NYU
 
-Our final model was stored in the project1_model.py and the weights were stored in project1_model.pt(only containing weights of the model) and project1_final_model.pt(also include optimizer_state, accuracy, etc.).
+Our final model was stored in the project1_model.py and the weights were stored in project1_model.pt (only containing weights of the model) and project1_final_model.pt (also include optimizer_state, accuracy, etc.).
 Both files can be found under the root directory /MiniProject/
 
 We have used normalization at the last step of data augmentation and the mean and std value were calculated as below,
